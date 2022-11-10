@@ -1,0 +1,31 @@
+.nav1{
+    display: inline-block;
+    list-style: none;
+    background-color:#2874f0;
+    width: 188vh;
+    margin:0;
+    padding: 0;
+    height:8.5vh
+}
+ul li {
+    float:left;
+    margin:0px;
+    padding: 0px;
+    margin-left: 20vh;
+}
+ul li a{
+    color:rgb(210, 184, 196);
+    text-decoration: none;
+    padding: 5px;
+    margin:0px;
+    display: inline-block;
+    font-size: large;
+}
+ul li a.active{
+    background-color: #2874f0;
+    color:rgb(115, 53, 115);
+
+}
+.row1{
+    display: flex;
+}

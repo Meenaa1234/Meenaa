@@ -1,0 +1,26 @@
+.main_header{
+    display: inline-block;
+    list-style: none;
+    background-color: blueviolet;
+    width: 100%;
+    margin:0;
+    padding: 0;
+    height:8vh
+}
+ul li {
+    float:left;
+    margin:0px;
+    padding: 0px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin:0px;
+    display: inline-block   ;
+}
+ul li a.active{
+    background-color: white;
+    color:purple;
+
+}

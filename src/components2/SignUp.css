@@ -1,0 +1,87 @@
+.formbody{
+    border: 2px solid white;
+    width: 95vh;
+    height: 77vh;
+    margin-left: 60.5vh;
+    margin-top: 13vh;
+    background-color: rgb(237, 242, 208);
+    padding:7px;
+}
+.outer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+    /* background-color: lightcoral; */
+}
+.heading{
+    text-align: center;
+    margin-left: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(185, 125, 228)
+}
+.b1,.b2, .b3, .b4, .b5{
+    align-items: center;
+    font-size:large;
+    align-items: center;
+    margin-left: 12vh;
+    margin-top: 7vh;
+    font-weight: 800;
+    color:rgb(163, 195, 243)
+}
+.ib1{
+    margin-left:18vh;
+    border :3px solid rgb(213, 172, 38);
+    width: 40vh;
+    height: 6vh;
+    background-color: rgb(221, 241, 191);
+    color: rgb(107, 51, 237);
+    font-size: large;
+}
+.ib2{
+    margin-left:18vh;
+    border :3px solid rgb(213, 172, 38);
+    width: 40vh;
+    height: 6vh;
+    background-color: rgb(221, 241, 191);
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.ib3{
+    margin-left:11.5vh;
+    border :3px solid rgb(213, 172, 38);
+    width: 40vh;
+    height: 6vh;
+    background-color: rgb(221, 241, 191);
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.ib4{
+    margin-left:3vh;
+    border :3px solid rgb(213, 172, 38);
+    width: 40vh;
+    height: 6vh;
+    background-color: rgb(221, 241, 191);
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.ib5{
+    margin-left:9vh;
+    border :3px solid rgb(213, 172, 38);
+    width: 40vh;
+    height: 6vh;
+    background-color: rgb(221, 241, 191);
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.button{
+    margin-left: 55%;
+    color: rgb(97, 130, 239);
+    background-color: rgb(238, 178, 178);
+    border:solid 3px green;
+    border-radius: 6px;
+}
+
+

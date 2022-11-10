@@ -1,0 +1,63 @@
+.formbody{
+    border: 2px solid white;
+    width: 90vh;
+    height: 70vh;
+    margin-left: 60.5vh;
+    margin-top: 13vh;
+    background-color: white;
+    padding:7px;
+}
+.b1,.b2, .b3{
+    align-items: center;
+    font-size:large;
+    align-items: center;
+    margin-left: 10vh;
+    margin-top: 7vh;
+    font-weight: 800;
+}
+.ib1{
+    margin-left:3vh;
+    border :3px solid black;
+    width: 40vh;
+    height: 6vh;
+    background-color: aliceblue;
+    color: rgb(152, 152, 220);
+    font-size: large;
+}
+.ib2{
+    margin-left:10.6vh;
+    border :3px solid black;
+    width: 40vh;
+    height: 6vh;
+    background-color: aliceblue;
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+.ib3{
+    margin-left:5vh;
+    border :3px solid black;
+    width: 40vh;
+    height: 6vh;
+    background-color: aliceblue;
+    color:rgb(152, 152, 220);
+    font-size: large;
+}
+/* .loginbtn{
+    width: 20vh;
+    height: 7vh;
+    margin-left: 8%;
+    margin-top: 3%;
+    font-size: larger;
+    background-color: rgb(88, 186, 224);
+    color: rgb(230, 239, 74);
+    border: 2px solid rgb(99, 122, 239);
+    border-radius: 10px;
+    font-weight: 500;
+    margin: 0 auto;
+    padding:0;
+    display: inline-block;
+    text-align: center;
+ } */
+/* ul li{
+    list-style: none;
+} */

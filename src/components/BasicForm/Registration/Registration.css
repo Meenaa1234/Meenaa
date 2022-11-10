@@ -1,0 +1,56 @@
+/* .style{
+    border:3px solid black;
+    width:80px
+
+} */
+
+.ul1 ul li{
+    list-style: none;
+}
+.regbtn{
+    border:3px solid pink;
+    background-color: blue;
+    margin-left: 120px;
+}
+.regbtn:hover{
+    color: yellowgreen;
+    background-color: black;
+}
+.rcol2{
+    background-color: rgb(252, 189, 165);
+    margin-top: -4px;
+    width: 100%;
+
+}
+.style1{
+    margin-left: 190px;
+}
+/* .p1{
+    margin-left: 220px;
+}
+.p2{
+    margin-left: 250px;
+} */
+
+.rrow{
+    display: flex;
+}
+.rleftnav1{
+    padding:10px;
+    background-color:#1d124b;
+    width:26vh;
+    height:70vh;
+    margin-top: -4px;
+    color:darkseagreen;
+    }
+
+.rfooter1
+{
+    color: white;
+    background-color: white;
+    margin: 0;
+    padding: 10px;
+    width:99%;
+    margin-top: -4px;
+    height:12vh;
+}
